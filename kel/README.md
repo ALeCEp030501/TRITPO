@@ -3,7 +3,7 @@ TRiTPO project
 On-line catalog of computer parts.
 
 1 [Documents](Documents)  
-1.1 [Requirements](Documents/Requirements/Requirements)  
+1.1 [Requirements](Documents/Requirements)  
 1.2 [Diagrams](Documents/Diagrams)  
 2 [Code](code/src/main/java/com/example)   
 3 [Testing info](Testing)  
